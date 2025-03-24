@@ -2,8 +2,7 @@ SteamQuery
 ==========
 
 Source repository
-.. code-block:: bash
-    https://github.com/Jason2605/SteamQuery
+https://github.com/Jason2605/SteamQuery
 
 SteamQuery allows you to gather information about a steam server and return it in a dictionary format
 
