@@ -1,8 +1,9 @@
 SteamQuery
 ==========
 
-ORIGINAL
-https://github.com/Jason2605/SteamQuery
+Source repository
+.. code-block:: bash
+    https://github.com/Jason2605/SteamQuery
 
 SteamQuery allows you to gather information about a steam server and return it in a dictionary format
 
@@ -12,7 +13,7 @@ Installing via pip
 
 .. code-block:: bash
 
-    $ pip install steamquery
+    $ pip install git+https://github.com/ri-v-al/SteamQuery-1.0.2.git
 
 How to use
 ----------
